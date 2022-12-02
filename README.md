@@ -1,4 +1,4 @@
-### Hi there, I'm Mauricio Carvalho, a Full Stack developer with focus on Back-End Web development.
+### Hi there, I am Mauricio Carvalho, a Full Stack developer with focus on Back-End Web development.
 <div align="center">
   <a href="https://github.com/vingadorv">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarvalhoZD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
